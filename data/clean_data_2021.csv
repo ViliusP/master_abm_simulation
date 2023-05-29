@@ -1,0 +1,6 @@
+Book Date,Origin City,Origin State,Ship Day,Destination City,Destination State,Delivery Day,Weight
+2020-12-11,Chicago,IL,2021-01-05,Midland,MI,2021-01-06,0.0
+2020-12-16,Muskegon,MI,2020-12-17,Whittier,CA,2021-01-04,30000.0
+2020-12-21,Compton,CA,2020-12-30,Morehead,KY,2021-01-05,18200.0
+2020-12-30,Belcamp,MD,2021-01-04,Bolingbrook,IL,2021-01-05,0.0
+2020-12-30,Bolingbrook,IL,2020-12-31,Windsor,CT,2021-01-01,0.0

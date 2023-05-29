@@ -1,0 +1,9 @@
+﻿Book Date,Order Number,Origin City,Origin State,Ship Day??,Dest City,Destination State,Delivery Date,Weight,Unit Type,Total Units
+11-12-20,380949,Chicago,IL,2021-1-05,Midland,MI,2021-1-06,0,PCS,0
+16-12-20,381860,Muskegon,MI,2020-12-17,Whittier,CA,2021-1-04,30000,PCS,0
+21-12-20,382624,Compton,CA,2020-12-30,Morehead,KY,2021-1-05,18200,PLT,10
+30-12-20,383733,Belcamp,MD,2021-1-04,Bolingbrook,IL,2021-1-05,0,PCS,0
+30-12-20,383740,Bolingbrook,IL,2020-12-31,Windsor,CT,2021-1-01,0,PCS,0
+30-12-20,383754,Compton,CA,2021-1-07,Morehead,KY,2021-1-13,13668,PLT,28
+30-12-20,383758,Yerington,NV,2021-1-02,Forest Park,GA,2021-1-06,0,PCS,0
+30-12-20,383792,Bolingbrook,IL,2021-1-03,Woodland,CA,2021-1-06,0,PCS,0
